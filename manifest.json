@@ -1,0 +1,7 @@
+{
+  "name": "Fireboy & Watergirl",
+  "short_name": "F&W",
+  "start_url": "./game.html",
+  "display": "standalone",
+  "icons": []
+}
